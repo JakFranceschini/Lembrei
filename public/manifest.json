@@ -1,0 +1,21 @@
+{
+  "name": "Lembrei",
+  "short_name": "Lembrei",
+  "description": "Meu programa de tarefas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0c0c",
+  "theme_color": "#0b0c0c",
+  "icons": [
+    {
+      "src": "/assets/icone_pagina.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icone_pagina.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
